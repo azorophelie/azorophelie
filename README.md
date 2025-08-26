@@ -8,10 +8,10 @@ Cette double expérience m’a permis d’acquérir une solide compréhension de
 - **Pronoms** : Elle | She/Her
 
 #### Ce que je recherche :
-Je suis actuellement à la recherche d'une **formation Concepteur Déveleppeur D'applications** pour approfondir mes connaissances et mes compétences techniques.  
+Je suis actuellement à la recherche d'une **alternance** pour suivre une formation de **concepteur développeur d'applications** avec ENI ÉCOLE pour approfondir mes connaissances et mes compétences techniques.  
 
 #### Comment me joindre :
-- **LinkedIn** : [Lien vers mon profil LinkedIn](www.linkedin.com/in/ophelieazor)  
+- **LinkedIn** : [Lien vers mon profil LinkedIn](https://www.linkedin.com/in/ophelieazor/)  
 - **Portfolio** : [Découvrez mon portfolio en ligne](https://azorophelie.github.io/portfolio/)
 
 
