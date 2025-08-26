@@ -21,7 +21,7 @@ Au fil de mon parcours, j'ai non seulement appris à maîtriser les outils et te
 #### Formation :
 - **Intégration Web** (3 mois), incluant 1 mois en entreprise
 - **Développement Web** (8 mois)
-- 
+- **Conception Développement D'Applications** (À venir)
 ### Ce que je suis en train d'apprendre et ce que je veux apprendre :
 Actuellement, je suis en train d'apprendre **Python** à travers des cours en ligne et je découvre **PHP**.  
 Mon objectif est de continuer à améliorer mes compétences en développement backend et d’approfondir mes connaissances en **bases de données** et **API**.  
